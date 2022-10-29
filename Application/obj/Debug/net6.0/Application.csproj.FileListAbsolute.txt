@@ -32,3 +32,6 @@ C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\As
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\Application\obj\Debug\net6.0\refint\Application.dll
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\Application\obj\Debug\net6.0\Application.pdb
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Application\obj\Debug\net6.0\Application.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Application\obj\Debug\net6.0\Application.pdb

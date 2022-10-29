@@ -22,3 +22,15 @@ C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\As
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\Domain\obj\Debug\net6.0\ref\Domain.dll

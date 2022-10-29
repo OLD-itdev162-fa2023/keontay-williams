@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y1R0r4d0vJQW45MRbVaV0zxkU2U42KYz6p6rEQLERHhfssRh566ndPnsYfVrao4lDK362zNmXztcj6qWhZmB1w==",
+  "dgSpecHash": "AgYlwSLTa6itSCUh+Solpj1D922sazQ0z1ATrV336b4IRgtozlwSRUXCtx2pGuKrB3i/9erfr7tCHP3fXLbH8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\Assignment 2\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-5\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omniz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\omniz\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
