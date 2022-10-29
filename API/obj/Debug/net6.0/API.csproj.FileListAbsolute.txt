@@ -89,3 +89,6 @@ C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\As
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\API\obj\Debug\net6.0\API.pdb
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\Assignment 2\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\API\obj\Debug\net6.0\API.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\omniz\OneDrive\Desktop\Desktop Cleaner\School stuff\FA2023\ITDEV-162\activity-5\API\obj\Debug\net6.0\API.pdb
