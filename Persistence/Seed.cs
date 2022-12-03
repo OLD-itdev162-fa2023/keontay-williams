@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Domain;
 
 namespace Persistence
 {
@@ -16,17 +17,17 @@ namespace Persistence
                     new Post {
                         Title = "First post",
                         Body = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque",
-                        DateOnly = DateTime.Now.AddDays(-10)
+                        Date = DateTime.Now.AddDays(-10)
                     },
                     new Post {
                         Title = "Second post",
                         Body = "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
-                        DateOnly = DateTime.Now.AddDays(-10)
+                        Date = DateTime.Now.AddDays(-7)
                     },
                     new Post {
                         Title = "Third post",
                         Body = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-                        DateOnly = DateTime.Now.AddDays(-10)
+                        Date = DateTime.Now.AddDays(-4)
                     }
                 };
 

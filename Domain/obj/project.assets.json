@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-5\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-9\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-5\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-9\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\omniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-5\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-9\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
