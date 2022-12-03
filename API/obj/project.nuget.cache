@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M5PDr/A9vG4CVjnTstfGYlxJZVKmCY6mVQ6nSgE9/Xfvsn1SAjBG/sSTPgfyiyO7EVe7Qzia+l2k/ip04/0qfg==",
+  "dgSpecHash": "6iT3/UjQffJ6RheT5ZmjMF/cpEzEm35R2pHID9NoomvyT5W+lMIlT7w3NTzHlx+mpAlrGnMAod7B9lcW+OBwUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-5\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\omniz\\OneDrive\\Desktop\\Desktop Cleaner\\School stuff\\FA2023\\ITDEV-162\\activity-9\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omniz\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
     "C:\\Users\\omniz\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
