@@ -19,14 +19,14 @@ namespace API.Controllers
             this.context = context;
         }
 
-        [HttpGet(nameof = "GetPosts")]
+        [HttpGet(Name = "GetPosts")]
         public ActionResult<List<Post>> Get()
         {
             return this.context.Posts.ToList();
         }
 
         [HttpGet("{id}", Name = "GetById")]
-        public ActionResult<PostsController> GetById(Guid id)
+        public ActionResult<Post> GetById(Guid id)
         {
             var post = this.context.Posts.Find(id);
             if (post is null)
@@ -34,12 +34,12 @@ namespace API.Controllers
                 return NotFound();
             }
 
-            return ok(post);
+            return Ok(post);
         }
 
-        public ActionResult<PostsController> Create([FromBody]Post request)
+        public ActionResult<Post> Create([FromBody]Post request)
         {
-            var post = new PostsController{
+            var post = new Post{
                 Id = request.Id,
                 Title = request.Title,
                 Body = request.Body,
@@ -57,8 +57,8 @@ namespace API.Controllers
             throw new Exception("Error creating post");
         }
 
-        [HttpPut(nameof = "Update")]
-        public ActionResult<PostsController> Update([FromBody]PostsController request)
+        [HttpPut(Name = "Update")]
+        public ActionResult<Post> Update([FromBody]Post request)
         {
             var post = context.Posts.Find(request.Id);
             if (post == null)
